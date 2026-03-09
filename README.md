@@ -69,7 +69,7 @@ Visualizations include:
 
 ## Dashboard Preview
 
-<img width="1654" height="911" alt="Screenshot 2026-03-09 105405" src="https://github.com/user-attachments/assets/9adeea2a-5c0b-4490-a4a0-15b59d5cfeab" />
+<img width="1646" height="915" alt="Screenshot 2026-03-09 110226" src="https://github.com/user-attachments/assets/ae51f82e-422e-44c1-ad3b-3678845309ff" />
 
 ---
 <img width="1658" height="911" alt="Screenshot 2026-03-09 105650" src="https://github.com/user-attachments/assets/231bb396-c6df-41f7-b0bd-2d4da5fe9af6" />
