@@ -69,8 +69,8 @@ Visualizations include:
 
 ## Dashboard Preview
 
-<img width="1672" height="921" alt="Screenshot 2026-03-02 155324" src="https://github.com/user-attachments/assets/f4b7a299-8d50-4df5-ac2e-2cd3629acda3" />
+<img width="1654" height="911" alt="Screenshot 2026-03-09 105405" src="https://github.com/user-attachments/assets/9adeea2a-5c0b-4490-a4a0-15b59d5cfeab" />
 
 ---
-<img width="1635" height="905" alt="Screenshot 2026-03-02 155356" src="https://github.com/user-attachments/assets/62342cd1-5667-4b77-9bf9-3705d4a1a984" />
+<img width="1658" height="911" alt="Screenshot 2026-03-09 105650" src="https://github.com/user-attachments/assets/231bb396-c6df-41f7-b0bd-2d4da5fe9af6" />
 
